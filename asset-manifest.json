@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arro38/prod-react-movie-app/static/css/main.7bdcd659.css",
+    "main.js": "/Arro38/prod-react-movie-app/static/js/main.f86502da.js",
+    "index.html": "/Arro38/prod-react-movie-app/index.html",
+    "main.7bdcd659.css.map": "/Arro38/prod-react-movie-app/static/css/main.7bdcd659.css.map",
+    "main.f86502da.js.map": "/Arro38/prod-react-movie-app/static/js/main.f86502da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bdcd659.css",
+    "static/js/main.f86502da.js"
+  ]
+}
